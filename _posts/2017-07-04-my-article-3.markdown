@@ -27,13 +27,13 @@ dog's back.
 > This is a blockquote.
 >
 > This is the second paragraph in the blockquote.
->
+>********
 > ## This is an H2 in a blockquote
 <img src="https://github.com/vsch/idea-multimarkdown/raw/master/assets/images/MNLogo.png" height="48" width="48" align="absmiddle"> Markdown Navigator 2.0
 ==========================================================================================================================================================
 
 [TOC levels=2,3]: # "Table of Contents"
-
+- 111
 ### Table of Contents
 - [Overview](#overview)
     - [Document with pleasure!](#document-with-pleasure)
@@ -60,14 +60,14 @@ dog's back.
 - [Background](#background)
 
 <ul>
-    {% for member in site.data.members %}
-    <li>
-        <a href="https://github.com/{{ member.github }}" target="_blank">
-        {{ member.name }}
-        </a>
-    </li>
-    {% endfor %}
-</ul>
+         {% for member in site.data.members %}
+         <li>
+             <a href="https://github.com/{{ member.github }}" target="_blank">
+             {{ member.name }}
+             </a>
+         </li>
+         {% endfor %}
+     </ul>
 
 ## Overview
 
