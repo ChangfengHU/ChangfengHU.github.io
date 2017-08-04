@@ -6,11 +6,11 @@ permalink: /social/
 <div class="list-group">
     <li class="list-group-item list-group-item-info">系列QQ群</li>
     <li class="list-group-item justify-content-between">
-        <a target="_blank" href="http://qm.qq.com/cgi-bin/qm/qr?k=tCvo5WZOJeTCVeof6nFse0pDBpCvCpa4"><i class="fa fa-qq" aria-hidden="true"></i> Angular-1区-丝绸之路-286047042</a>
+        <a target="_blank" href="http://qm.qq.com/cgi-bin/qm/qr?k=tCvo5WZOJeTCVeof6nFse0pDBpCvCpa4"><i class="fa fa-qq" aria-hidden="true"></i> 我的qq群</a>
         <span class="badge badge-danger badge-pill">（满）</span>
     </li>
     <li class="list-group-item justify-content-between">
-        <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=cbfcd79e7e90939b0e2c519f475fac4792985ce2abc5ad45ec5e06ffcfe944dd"><i class="fa fa-qq" aria-hidden="true"></i> Angular-2区-敦煌-139357161</a>
+        <a target="_blank" href="http://qm.qq.com/cgi-bin/qm/qr?k=tCvo5WZOJeTCVeof6nFse0pDBpCvCpa4"><i class="fa fa-qq" aria-hidden="true"></i> Angular-2区-敦煌-139357161</a>
         <span class="badge badge-danger badge-pill">（满）</span>
     </li>
     <li class="list-group-item justify-content-between">
