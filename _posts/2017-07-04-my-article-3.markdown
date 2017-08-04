@@ -1,0 +1,187 @@
+---
+layout: post
+title:  "这是我自己的三篇文章"
+author: "长风朗月"
+comments: true
+category: "数据库技术区"
+published: true
+date:   2017-07-04 10:51:20 +0800
+categories: jekyll update
+excerpt: 利用Google Analytics监控你的站点
+permalink: /members/
+---
+
+A First Level Header
+====================
+A Second Level Header
+---------------------
+
+Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.
+
+The quick brown fox jumped over the lazy
+dog's back.
+### Header 3
+
+> This is a blockquote.
+>
+> This is the second paragraph in the blockquote.
+>
+> ## This is an H2 in a blockquote
+<img src="https://github.com/vsch/idea-multimarkdown/raw/master/assets/images/MNLogo.png" height="48" width="48" align="absmiddle"> Markdown Navigator 2.0
+==========================================================================================================================================================
+
+[TOC levels=2,3]: # "Table of Contents"
+
+### Table of Contents
+- [Overview](#overview)
+    - [Document with pleasure!](#document-with-pleasure)
+    - [Two tier model](#two-tier-model)
+- [Release Road Map](#release-road-map)
+    - [Next Release: Version 2.4.0](#next-release-version-240)
+    - [Version 2.3.8](#version-238)
+    - [Version 2.3.7](#version-237)
+    - [Version 2.3.6](#version-236)
+    - [Version 2.3.5](#version-235)
+    - [Version 2.3.4](#version-234)
+    - [Version 2.3.3](#version-233)
+    - [Version 2.3.2](#version-232)
+    - [Version 2.3.1](#version-231)
+    - [Version 2.3.0](#version-230)
+    - [Version 2.2.0](#version-220)
+    - [Version 2.1.1](#version-211)
+    - [Version 2.1.0](#version-210)
+    - [Source Update is Long Overdue](#source-update-is-long-overdue)
+- [Older Versions](#older-versions)
+    - [Version 1.8.4](#version-184)
+- [Rogues Gallery of Features](#rogues-gallery-of-features)
+    - [Screenshots](#screenshots)
+- [Background](#background)
+
+<ul>
+    {% for member in site.data.members %}
+    <li>
+        <a href="https://github.com/{{ member.github }}" target="_blank">
+        {{ member.name }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
+
+## Overview
+
+![Screenshot](/assets/images/capabilities2.png)
+
+**[<span style="color:#30A0D8;">Markdown</span>][Markdown] language support for IntelliJ
+platform**
+
+**A Markdown plugin** with GFM and a **matching** preview style.
+
+**Get Markdown Navigator [enhanced edition][Markdown Navigator] to unlock all productivity
+features.**
+
+### Document with pleasure!111111344
+
+Work with [Markdown] files like you do with other languages in the IDE, by getting full support
+for:
+
+* **Paste images** into documents for fast screen capture links
+* **Drag & Drop files and images** for fast link insertion
+* **Formatting** to cleanup documents with a key stroke
+* **Navigation and Find Usages** to find references without effort
+* **Copy Markdown** as **JIRA**, **YouTrack** or **HTML** formatted text
+* Convert **HTML to Markdown by pasting** it into a Markdown document.
+* **Export** to **HTML** or **PDF** to share with others
+* **Refactoring** of all referencing elements:
+  * files ⟺ links
+  * headings ⟺ ref anchors
+  * footnotes ⟺ footnote refs
+  * references ⟺ ref links/ref images
+* **Completions** to reduce typing:
+  * link address ⇐ files
+  * ref anchors ⇐ headings
+  * footnote refs ⇐ footnotes
+  * ref links/ref images ⇐ references
+  * link text ⇐ ref anchor/link address
+* **Error and Warning** annotations to help catch mistakes early
+* **Intention actions** for fast results with less effort
+* **Wrap on Typing** to keep it nicely formatted as you edit
+* **GitHub style rendering** that you are used to, out of the box
+* **Fast typing response** for distraction free editing
+* **Fully customizable** to adjust to your preferences and project needs
+
+### Two tier model
+
+1. Previewing and syntax highlighting functionality with a split editor is available in the
+   Basic open source edition. Intended for mostly previewing markdown documents and unaided
+   editing. Wiki link refactoring and completions are also available in the basic edition to
+   ease the task of wiki maintenance.
+
+2. Advanced features used for creating and maintaining markdown documents: refactoring, find
+   usages, validation, auto formatting and HTML page customizations are only available in the
+   Enhanced licensed version. 15-day free trial licenses are available from [Markdown Navigator]
+   page on my website.
+
+Release Road Map
+----------------
+
+### Next Release: Version 2.4.0
+
+Bug and compatibility fixes you can find in [Version Notes].
+
+* Navigate using links with **GitHub Line Reference** anchor refs
+* **Copy Reference** then Paste to get **link with line reference**
+* **Encode/Decode Base64 Images** Intention
+* Paste Images with **Base64 Encoded** embedded image links
+* **Embed Images** HTML generation option
+* **Base64 embedded image** display in **Swing browser**
+* **Convert Markdown to HTML** intention for fenced code elements
+* **Code Folding** option in settings for **embedded image links**
+
+### Version 2.3.8
+
+Bug and compatibility fixes you can find in [Version Notes].
+
+* Add GitHub Line reference anchors in the form `L#` or `L#-L#` for line ranges. Now navigating
+  to such an anchor in a project file will move the caret to the line and if second form is used
+  select the lines.
+* Add clicking on task item box in preview toggles open/closed task status in source (JavaFX
+  browser).
+* Add Apply all '...' in file intentions where these make sense.
+* Add intention to convert between typographic symbols and markdown smarts/quotes extension
+  text.
+* Add `HTML block deep parsing` parser option to allow better handling of raw text tag parsing
+  when they are not the first tag on the first line of the block.
+* Add Launching external URLs inside the browser, now `navigate to declaration` opens url in
+  browser, ftp or mail client depending on the link. Can also use line markers for navigation of
+  these elements.
+* Add GitBook compatible include tags when `GitBook compatibility mode` is enabled in `Parser`
+  options.
+* Add handling of optional quotes for jekyll include tags. Either single `'` or double `"`
+  quotes will be ignored if the file name is wrapped in them.
+* Add Insert table column on right actions and changed description of previous action to insert
+  table column on left.
+* Add #411, Network drives links are not resolved correctly, URI links outside of project now
+  error highlighted if the file does not exist
+* Add #433, Support external links for the Link Map (eg. JIRA link), Reference to Link Map to
+  allow creating automatic reference URLs from Reference IDs
+* Fix HTML generation with line source line highlighting when inline styling spans source lines
+* Fix #459, PDF export does not resolve local ref anchors
+* Fix #456, Register r markdown code chunk prefix
+* Fix #453, Option to hide toolbar
+* Fix breadcrumb tooltip of task items would be missing the task item marker
+* Fix #447, Exported HTML has unexpected CSS and JS URLs
+* Fix #445, there should no be default language injection in bare code chunks
+* Fix #444, Markdown Navigator 2.3.7 breaks paste of github checkout url
+* Fix #441, false positive typo annotation in header, caused by using IdentifierSplitter instead
+  of TextSplitter to handle elements that can have references.
+* Fix #442, Image Paste in Windows always pastes absolute file:// regardless of selection
+* Fix #440, Auto links should not appear in fenced code
+
+### Version 2.3.7
+
+* Fix erroneous escape sequence processing in fenced code block content causing parser exception
+  in some circumstances.
+
+### Version 2.3.6
