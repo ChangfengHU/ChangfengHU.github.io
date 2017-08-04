@@ -65,7 +65,7 @@ platform**
 **Get Markdown Navigator [enhanced edition][Markdown Navigator] to unlock all productivity
 features.**
 
-### Document with pleasure!111111
+### Document with pleasure!111111344
 
 Work with [Markdown] files like you do with other languages in the IDE, by getting full support
 for:
