@@ -39,7 +39,7 @@ dog's back.
     - [Two tier model](#two-tier-model)
 - [Release Road Map](#release-road-map)
     - [Next Release: Version 2.4.0](#next-release-version-240)
-    - [Version 2.3.8](#version-238)
+    - [面向对象](#面向对象)
     - [Version 2.3.7](#version-237)
     - [Version 2.3.6](#version-236)
     - [Version 2.3.5](#version-235)
@@ -129,7 +129,7 @@ Bug and compatibility fixes you can find in [Version Notes].
 * **Convert Markdown to HTML** intention for fenced code elements
 * **Code Folding** option in settings for **embedded image links**
 
-### Version 2.3.8
+### 面向对象
 
 Bug and compatibility fixes you can find in [Version Notes].
 

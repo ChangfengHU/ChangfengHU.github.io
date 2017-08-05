@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "这是我自己的一篇文章"
+title:  "Mybatis小结"
 date:   2017-07-04 10:51:20 +0800
 category: "javaEE技术区"
 categories: jekyll update
 ---
-A First Level Header
+Mybatis技术概要
 ====================
-A Second Level Header
----------------------
-
+简介
+-------
+[](http://www.jianshu.com)
+<img src="" height="60" width="60" align="absmiddle"> Mybatis
 Now is the time for all good men to come to
 the aid of their country. This is just a
 regular paragraph.
@@ -17,18 +18,43 @@ regular paragraph.
 The quick brown fox jumped over the lazy
 dog's back.
 ### Header 3
-
+[简书](http://www.jianshu.com)
 > This is a blockquote.
 >
 > This is the second paragraph in the blockquote.
 >
-> ## This is an H2 in a blockquote
-<img src="https://github.com/vsch/idea-multimarkdown/raw/master/assets/images/MNLogo.png" height="48" width="48" align="absmiddle"> Markdown Navigator 2.0
+> # <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1502535287&di=185cd869835150ebb4c356d7c598e692&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.phperz.com%2Fdata%2Fimg%2F20161212%2F1481555188_3134.png" height="60" width="60" align="absmiddle"> Mybatis
 ==========================================================================================================================================================
 
 [TOC levels=2,3]: # "Table of Contents"
+<div class="list-group">
+    <li class="list-group-item justify-content-between list-group-item-success">
+        <a href="https://github.com/ChangfengHU/MYbatis" target="_blank">Mybatis源码</a>
+        <span class="badge badge-default badge-pill">8K+</span>
+    </li>
+    
+</div>
 
-### Table of Contents
+	      <!-- Mybatis -->
+            <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis</artifactId>
+	     	</dependency>
+```
+<!-- Mybatis -->
+	<dependency>
+		<groupId>org.mybatis</groupId>
+		<artifactId>mybatis</artifactId>
+	</dependency>
+
+```
+
+`System.out.println(factory);`
+### 主要技术点
+
+- [Overview](#overview)
+    - [Document with pleasure!](#document-with-pleasure)
+    - [Two tier model](#two-tier-model)
 - [Overview](#overview)
     - [Document with pleasure!](#document-with-pleasure)
     - [Two tier model](#two-tier-model)
@@ -55,7 +81,8 @@ dog's back.
 
 
 ## Overview
-
+电脑截图快捷键、全屏截图快捷键、截图快   
+捷键是什么、截图按
 ![Screenshot](/assets/images/capabilities2.png)
 
 **[<span style="color:#30A0D8;">Markdown</span>][Markdown] language support for IntelliJ
