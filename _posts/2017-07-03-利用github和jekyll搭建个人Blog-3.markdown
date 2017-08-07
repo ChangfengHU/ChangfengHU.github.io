@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2-安装git和小乌龟"
-author: "大漠穷秋"
+author: "长风朗月"
 comments: true
 date:   2017-07-03 07:35:29 +0800
 category: "文科生都能读懂的Jekyll中文教程"

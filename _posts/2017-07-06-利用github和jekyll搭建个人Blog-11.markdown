@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "10-利用Google Analytics监控你的Jekyll站点"
-author: "大漠穷秋"
+author: "长风朗月"
 comments: true
 date:   2017-07-06 21:44:06 +0800
 category: "文科生都能读懂的Jekyll中文教程"

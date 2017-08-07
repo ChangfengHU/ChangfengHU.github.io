@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VS Code 1.14发布，可以直接Debug Angular应用"
-author: "大漠穷秋"
+author: "长风朗月"
 comments: true
 date:   2017-07-12 21:37:10 +0800
 category: "web前端"

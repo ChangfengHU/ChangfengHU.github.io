@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "0-《利用Jekyll和Github搭建免费的个人Blog》整体目录"
-author: "大漠穷秋"
+author: "长风朗月"
 comments: true
 date:   2017-07-02 15:35:29 +0800
 category: "文科生都能读懂的Jekyll中文教程"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PrimeNG:目前市面上最完善的开源Angular组件库"
-author: "大漠穷秋"
+author: "长风朗月"
 comments: true
 date:   2017-07-18 13:34:13 +0800
 category: "web前端"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "14-利用_data目录存储数据"
-author: "大漠穷秋"
+author: "长风朗月"
 comments: true
 date:   2017-07-08 15:56:44 +0800
 category: "文科生都能读懂的Jekyll中文教程"
@@ -17,7 +17,7 @@ Jekeyll可以读取_data目录下的数据文件，支持YML、JSON、CSV三种�
   {"name":"Tom Preston-Werner","github":"mojombo"},
   {"name":"Parker Moore","github":"parkr"},
   {"name":"Liu Fengyun","github":"liufengyun"},
-  {"name":"大漠穷秋","github":"ChangfengHu"}
+  {"name":"长风朗月","github":"ChangfengHu"}
 ]
 ```
 

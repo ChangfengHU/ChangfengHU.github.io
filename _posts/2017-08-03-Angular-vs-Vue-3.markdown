@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vue从Angular里面抄了哪些东西？"
-author: "大漠穷秋"
+author: "长风朗月"
 comments: true
 date:   2017-08-04 07:10:11 +0800
 category: "web前端"

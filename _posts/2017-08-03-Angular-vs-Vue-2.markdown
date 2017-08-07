@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "为什么只会Vue的都是前端小白？"
-author: "大漠穷秋"
+author: "长风朗月"
 comments: true
 date:   2017-08-03 10:16:31 +0800
 category: "web前端"

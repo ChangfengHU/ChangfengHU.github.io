@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "8-修改Jekyll内置的皮肤和默认参数"
-author: "大漠穷秋"
+author: "长风朗月"
 comments: true
 date:   2017-07-05 09:41:06 +0800
 category: "文科生都能读懂的Jekyll中文教程"

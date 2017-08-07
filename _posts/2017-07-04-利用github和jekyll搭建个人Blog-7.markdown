@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "6-提交第一篇文章"
-author: "大漠穷秋"
+author: "长风朗月"
 comments: true
 date:   2017-07-04 10:44:24 +0800
 category: "文科生都能读懂的Jekyll中文教程"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Angular有哪些地方比Vue更优秀？"
-author: "大漠穷秋"
+author: "长风朗月"
 comments: true
 date:   2017-08-02 09:26:13 +0800
 category: "web前端"

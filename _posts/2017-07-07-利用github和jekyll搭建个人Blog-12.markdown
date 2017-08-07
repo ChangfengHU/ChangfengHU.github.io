@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "11-Jekyll集成Disqus评论模块"
-author: "大漠穷秋"
+author: "长风朗月"
 comments: true
 date:   2017-07-07 10:49:03 +0800
 category: "文科生都能读懂的Jekyll中文教程"

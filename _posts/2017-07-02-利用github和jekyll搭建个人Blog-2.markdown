@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "1-前置知识"
-author: "大漠穷秋"
+author: "长风朗月"
 comments: true
 date:   2017-07-02 15:35:29 +0800
 category: "文科生都能读懂的Jekyll中文教程"
