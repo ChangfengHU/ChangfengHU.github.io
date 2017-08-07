@@ -5,11 +5,12 @@ date:   2017-07-04 10:51:20 +0800
 category: "javaEE技术区"
 categories: jekyll update
 ---
-Mybatis技术概要
+# Mybatis技术概要
 ====================
-### 简介
--------
-[1](assets/img/1.png)
+简介
+---- 
+  
+[](http://www.jianshu.com)
 <img src="" height="60" width="60" align="absmiddle"> Mybatis
 Now is the time for all good men to come to
 the aid of their country. This is just a
