@@ -9,6 +9,10 @@ excerpt: 如何安装git和小乌龟
 ---
 
 什么是git？111111111111111111111111
+![](http://oubahy2nd.bkt.clouddn.com/jianli0_1.jpg)
+![](https://github.com/ChangfengHU/jinali/blob/master/src/main/webapp/image/jianli0_2.jpg)
+![](https://github.com/ChangfengHU/jinali/blob/master/src/main/webapp/image/jianli0_3.jpg)
+![](https://github.com/ChangfengHU/jinali/blob/master/src/main/webapp/image/jianli0_4.jpg)
 
 卧槽，好吧...
 
