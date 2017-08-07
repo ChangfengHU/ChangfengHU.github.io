@@ -2,7 +2,7 @@
 layout:         post
 title:          jianli
 description:
-category: "数据库技术区"
+category: "web前端"
 keywords: node.js
 ---
 # 简历
