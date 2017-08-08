@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "这是我自己的四篇文章"
+title:  "JavaEE第一篇"
 author: "长风朗月"
 comments: true
-category: "数据库优化区"
+category: "javaEE技术区"
 published: true
-date:   2017-07-04 10:51:20 +0800
+date:   2018-08-08 10:51:20 +0800
 categories: jekyll update
 excerpt: 利用Google Analytics监控你的站点
 ---
