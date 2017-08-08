@@ -12,17 +12,17 @@ excerpt: 利用Google Analytics监控你的站点
 
 1 web前端知识
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.1 <a href="https://changfenghu.github.io/web%E5%89%8D%E7%AB%AF/2017/08/07/Angular-vs-Vue-3.html">BootStrap技术总结</a>
+&nbsp;&nbsp;&nbsp;&nbsp;2.1 <a href="https://changfenghu.github.io/web%E5%89%8D%E7%AB%AF/2017/08/08/web%E5%89%8D%E7%AB%AF-BootStrap%E6%8A%80%E6%9C%AF%E6%80%BB%E7%BB%93.html">BootStrap技术总结</a>
 
 2 javaEE技术区
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.1 <a href="http://localhost:4000/jekyll/update/javaee%E6%8A%80%E6%9C%AF%E5%8C%BA/2017/07/04/javaEE%E6%8A%80%E6%9C%AF%E5%8C%BA-javaEE%E7%AC%AC%E4%B8%80%E7%AF%87.html">五大数据库优缺点</a>
+&nbsp;&nbsp;&nbsp;&nbsp;2.1 <a href="https://changfenghu.github.io/jekyll/update/javaee技术区/2018/08/08/javaEE技术区-javaEE第一篇.html">javaEE第一篇</a>
 
 
 
 3 数据库技术区
 
-&nbsp;&nbsp;&nbsp;&nbsp;3.1 <a href="http://ChangfengHu.github.io/%E6%96%87%E7%A7%91%E7%94%9F%E9%83%BD%E8%83%BD%E8%AF%BB%E6%87%82%E7%9A%84jekyll%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-3.html">五大数据库优缺点</a>
+&nbsp;&nbsp;&nbsp;&nbsp;3.1 <a href="https://changfenghu.github.io/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF%E5%8C%BA/2017/08/08/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF%E5%8C%BA-%E4%BA%94%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BC%98%E7%BC%BA%E7%82%B9.html">五大数据库优缺点</a>
 
 
 
