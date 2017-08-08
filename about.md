@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![11](http://oubxpp5i7.bkt.clouddn.com/0.jpg)
-<img src="{{ "/assets/img/angular-damo/BIO-Angular.jpg" | relative_url }}" alt="讲课照片" width="100%" class="img-thumbnail rounded"/>
+
+<img src="{{ "/assets/img/angular-damo/ziji.png" | relative_url }}" alt="讲课照片" width="100%" class="img-thumbnail rounded"/>
 
 我出版过的书籍
 
