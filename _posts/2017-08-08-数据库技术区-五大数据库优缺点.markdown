@@ -8,13 +8,20 @@ category: "数据库技术区"
 excerpt: 《利用Jekyll和Github搭建免费的个人Blog》整体目录
 ---
 
-
 # <center>五大数据库优缺点</center> #
 
->
->
-## *mysql(oracle)---* ##
+[TOC levels=2,3]: # "Table of Contents"
 
+### Table of Contents
+
+- [快速标题](#快速标题)
+    - [mysql](#mysql)
+    - [oracle](#oracle)
+    - [sql-server](#sql-server)
+>
+>
+
+### mysql
 >
 > ### 优点: ###
 
@@ -39,7 +46,7 @@ excerpt: 《利用Jekyll和Github搭建免费的个人Blog》整体目录
 
 1. 并发
 
-## *Oracle(甲骨文)* ##
+### oracle
 >
 > ### 优点: ###
 
@@ -60,7 +67,8 @@ excerpt: 《利用Jekyll和Github搭建免费的个人Blog》整体目录
 
 
 
-## *SQL Server(微软)* ##
+
+### sql-server
 
 > ### 优点: ###
 
